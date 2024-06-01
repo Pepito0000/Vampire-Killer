@@ -16,7 +16,7 @@ Ana Alcaraz Martínez:
 * Pepito0000
 
 ***
-##Controls
+## Controls
 Up arrow: Jump
 
 Left/Right arrow: Move
@@ -35,15 +35,15 @@ ESC: return to main menu
 
 F4: automatic win
 
-##Features
+## Features
 
-##Video 
+## Video 
 
-##Credits
+## Credits
 Ana Alcaraz Martínez: https://github.com/Pepito0000
 Diego Del Águila Flores: https://github.com/Hask05
 
-##Link to release
+## Link to release
 
 ## Team photo
 
