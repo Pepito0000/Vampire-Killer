@@ -16,6 +16,34 @@ Ana Alcaraz Martínez:
 * Pepito0000
 
 ***
+##Controls
+Up arrow: Jump
+
+Left/Right arrow: Move
+
+Down arrow: Sneak
+
+Space: Attack
+
+F1: Hitbox debug mode
+
+1,2,3,4,5,6,7: Level change debug mode
+
+D: Decrease player lives.
+
+ESC: return to main menu
+
+F4: automatic win
+
+##Features
+
+##Video 
+
+##Credits
+Ana Alcaraz Martínez: https://github.com/Pepito0000
+Diego Del Águila Flores: https://github.com/Hask05
+
+##Link to release
 
 ## Team photo
 
