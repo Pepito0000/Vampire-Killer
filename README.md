@@ -39,6 +39,9 @@ ESC: return to main menu
 ## Link to github
 [Web](https://pepito0000.github.io/Vampire-Killer/)
 
+## Link to release
+[Release](https://github.com/Pepito0000/Vampire-Killer/releases/tag/FinalRelease)
+
 ## Team photo
 
 ![image](https://github.com/Pepito0000/Vampire-Killer/assets/160219384/692e6e31-5a40-4f8e-812d-bf5a09f92dc8)
